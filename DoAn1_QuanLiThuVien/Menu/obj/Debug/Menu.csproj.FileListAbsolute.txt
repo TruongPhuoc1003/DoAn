@@ -1,0 +1,40 @@
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\bin\Debug\Menu.exe.config
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\bin\Debug\Menu.exe
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\bin\Debug\Menu.pdb
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.BanDoc.resources
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.exe
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.pdb
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.Sach.resources
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.PhieuMuonTra.resources
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.PhieuMuonTraSach.resources
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.NhaCungCap.resources
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.NhanVien.resources
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.PhieuNhap.resources
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.PhieuNhapSach.resources
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.DangNhap.resources
+C:\Users\ACER\OneDrive\Máy tính\Đồ Án 1-Nhóm 1\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.MenuAdmin.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\bin\Debug\Menu.exe.config
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\bin\Debug\Menu.exe
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\bin\Debug\Menu.pdb
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.BanDoc.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.DangNhap.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.MenuAdmin.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.NhaCungCap.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.NhanVien.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.PhieuMuonTra.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.PhieuMuonTraSach.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.PhieuNhap.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.PhieuNhapSach.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.Sach.resources
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.exe
+C:\Users\Gigabyte\OneDrive\Máy tính\Đồ Án\DoAn1_QuanLiThuVien\Menu\obj\Debug\Menu.pdb
